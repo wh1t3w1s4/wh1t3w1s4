@@ -6,7 +6,7 @@
 
 **Always working, documenting everything, sharing what I learn.**
 
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/public/users/3097105)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/3097105)
 [![Writeups](https://img.shields.io/badge/Writeups-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wh1t3w1s4/CTF-writeups)
 [![Email](https://img.shields.io/badge/Contact-1F2937?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:w1s4.contact@pm.me)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/blumesec)
